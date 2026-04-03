@@ -1,0 +1,24 @@
+{
+  "name": "bookery",
+  "version": "1.0.0",
+  "description": "**Our member are listed as follow:**   1. Rith Sokheng   2. Puth Yihour   3. Chomreoun Mengchhing   4. Sout Sinat   5. Chay Kimleang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debrouillez-vous/Bookery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debrouillez-vous/Bookery/issues"
+  },
+  "homepage": "https://github.com/debrouillez-vous/Bookery#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.19"
+  }
+}
